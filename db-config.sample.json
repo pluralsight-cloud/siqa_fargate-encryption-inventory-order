@@ -1,0 +1,7 @@
+{
+  "host": "db.example.internal",
+  "port": 5432,
+  "dbname": "inventory",
+  "username": "app_user",
+  "password": "S3cur3P@ssw0rd!"
+}
